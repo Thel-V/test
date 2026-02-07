@@ -1,0 +1,10 @@
+# Dependency folders
+**/node_modules/
+
+# Angular build files
+/frontend/.angular/
+/frontend/dist/
+
+# Logs and OS files
+.DS_Store
+npm-debug.log*
